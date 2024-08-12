@@ -15,7 +15,7 @@
 ### Hero
 
 - image,
-- orange text block: headline, booking, number
+- orange text block: headline, booking(text, number)
 
 ### How it works
 
@@ -24,6 +24,5 @@
 
 ## Footer
 
-- socials,
-- copyright,
-- link.
+- socials(text, (facebook, insta, tiktok))
+- notice(copyright, link)
